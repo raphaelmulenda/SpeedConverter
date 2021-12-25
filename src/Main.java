@@ -6,6 +6,7 @@ public class Main {
         MegaBytesConverter.printMegaBytesAndKiloBytes(5000);
         BarkingDog.shouldWakeUP(true,25);
         LeapYear.isLeapYear(2000);
+        DecimalComparator.areEqualByThreeDecimalPlaces(20.3547,20.35494);
 
     }
 
