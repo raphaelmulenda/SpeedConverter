@@ -7,6 +7,7 @@ public class Main {
         BarkingDog.shouldWakeUP(true,25);
         LeapYear.isLeapYear(2000);
         DecimalComparator.areEqualByThreeDecimalPlaces(20.3547,20.35494);
+        EqualSumChecker.hasEqualSum(1,2,3);
 
     }
 
